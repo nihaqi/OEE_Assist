@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC>
+  <qresource>
+    <file alias="./cooper.jpeg">./cooper.jpeg</file>
+    <file alias="./coopericon.png">./coopericon.png</file>
+  </qresource>
+</RCC>
